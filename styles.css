@@ -2,7 +2,7 @@
     width: 90vw;
     height: calc(100vh - 10vw);
     margin: 5vw;
-    border: 4px solid #0e0e0e;
+    border: 4px solid #0d0d0d;
     border-radius: 4px;
     box-sizing: border-box;
     display: flex;
@@ -18,7 +18,7 @@
     font-weight: bold;
     padding-top: 8px;
     padding-bottom: 8px;
-    border-bottom: 4px solid #0e0e0e;
+    border-bottom: 4px solid #0d0d0d;
 }
 
 #content-body {
